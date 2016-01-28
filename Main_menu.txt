@@ -1,0 +1,7 @@
+Here is a list of available commands:
+  new    - Create a new contact 
+  list   - List all contacts
+  show   - Show a contact by id 		ex. show 1
+  search - Search contacts 			ex. show Adam
+  update - Update a contact by id 		ex. update Adam
+  destroy- Delete a contact by id 		ex. destroy 8 
